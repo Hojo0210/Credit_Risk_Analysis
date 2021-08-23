@@ -25,3 +25,5 @@ BalancedRandomForestClassifier and EasyEnsembleClassifier ensemble classifiers w
 ### EasyEnsembleClassifier
 ![Screenshot (39)](https://user-images.githubusercontent.com/81697076/130385852-064aa977-0db1-4ff8-87bd-c51fd6fe09a0.png)
 
+## Summary
+The EasyEnsembleClassifier worked much better than the other techiques did. It has a balanced accuracy score of 0.929, a precision of 0.07, and a recall(sensitivity) of 0.92. 
